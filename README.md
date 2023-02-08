@@ -69,4 +69,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Boost Page Speed By Using Only A CSS Property!](https://dev.to/bonnopc/boost-page-speed-by-using-only-a-css-property-3g5g)
+- [Publishing React App on Google Play Store - Trusted Web Activity &lpar;TWA&rpar; Basic Guide](https://dev.to/bonnopc/publishing-react-app-on-google-play-store-trusted-web-activity-twa-basic-guide-1eao)
 <!-- BLOG-POST-LIST:END -->

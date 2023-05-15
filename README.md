@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bonnopc/">
@@ -19,15 +19,15 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka, Bangladesh. This is the Github profile I am using to contribute to [AffineLabs](https://github.com/AffineLabs). But, this is not all I have done so far in my career. **So my actual Github profile lives here - [https://github.com/bonnopc](https://github.com/bonnopc).**
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka, Bangladesh. I am working full-time at [Multiplyr](https://www.multiplyr.xyz/) & this is the profile I am using to contribute to [AffineLabs](https://github.com/AffineLabs). But, if you want to see some of my older "public" works, **you should visit - [https://github.com/bonnopc](https://github.com/bonnopc).**
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring DeFi possibilites.
 
-- :zap: In my free time, I listen to my favorite songs and read tech articles.
+- :zap: In my leisure time, I listen to my favorite songs, play games or read tech articles.
 
-- :mailbox: How to reach me: [bonnopc.dev](https://www.bonnopc.dev/#contact)
+- :mailbox: [Visit my portfolio](https://www.prosenjitchy.com/#contact) to contact directly.
 
 ---
 
@@ -54,11 +54,34 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
+<br/>
+<br/>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pchy10&langs_count=8&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pchy10&langs_count=8&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pchy10&langs_count=8&show_icons=true" />
+</picture>
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnopc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true" />
+</picture>
+
 
 ---
 

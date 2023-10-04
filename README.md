@@ -21,11 +21,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dhaka, Bangladesh. I am working full-time at [Multiplyr](https://www.multiplyr.xyz/) & this is the profile I am using to contribute to [AffineLabs](https://github.com/AffineLabs). But, if you want to see some of my older "public" works, **you should visit - [https://github.com/bonnopc](https://github.com/bonnopc).**
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and am always excited to build cool applications. [Here are some of my recent projects](https://www.prosenjitchy.com/#projects).
 
-- :seedling: Exploring DeFi possibilites.
+- :seedling: Exploring DeFi possibilities.
 
-- :zap: In my leisure time, I listen to my favorite songs, play games or read tech articles.
+- :zap: In my leisure time, I listen to my favorite songs, play games, read articles, etc.
 
 - :mailbox: [Visit my portfolio](https://www.prosenjitchy.com/#contact) to contact directly.
 
@@ -66,20 +66,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pchy10&langs_count=8&show_icons=true" />
-</picture>
-
----
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=pchy10&count_private=true&show_icons=true" />
 </picture>
 
 
